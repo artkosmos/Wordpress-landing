@@ -1,1 +1,1 @@
-This is a training landing page of a Wordpress training
+This is a training landing page of a Wordpress learning
